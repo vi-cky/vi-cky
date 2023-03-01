@@ -56,7 +56,7 @@
   <br/>
    
    
- ![Prakash's github activity graph](https://activity-graph.herokuapp.com/graph?username=vi-cky&theme=dracula)
+
   
   <div/>
  
