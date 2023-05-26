@@ -5,8 +5,8 @@
 
  <img alt="Hit" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprakashseervi1212%2Fhit-counter" />
  
- -💪 Currently working as a Software enginner L1. <br/>
- -💼 1+ years of experience as full stack enginner.  <br/>
+ -💪 Currently working as a Software enginner L3. <br/>
+ -💼 2+ years of experience as full stack enginner.  <br/>
  
  
 
