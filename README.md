@@ -50,7 +50,7 @@
   
   <div align="center">
    
-  ![Prakash Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vi-cky&layout=compact&theme=radical)
+  ![Vijay Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vi-cky&layout=compact&theme=radical)
 
 <!--     <div/>    -->
   <br/>
